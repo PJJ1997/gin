@@ -1,0 +1,4 @@
+[GIN-debug] GET    /ping                     --> main.ginCustomLog.func2 (3 handlers)
+[GIN-debug] Environment variable PORT is undefined. Using port :8080 by default
+[GIN-debug] Listening and serving HTTP on :8080
+127.0.0.1 Sat, 16 Jan 2021 20:59:09 CST GET 
